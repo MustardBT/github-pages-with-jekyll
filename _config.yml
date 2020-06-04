@@ -1,5 +1,5 @@
 title: Github Pages Practice
-author: MustardBT
+author: Jason Mustard
 email: jdmustard@icloud.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -10,4 +10,4 @@ theme: minima
 # twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  mustardbt # DO NOT include the @ character, or else the build will fail!
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
